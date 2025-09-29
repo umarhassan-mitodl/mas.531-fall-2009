@@ -4,6 +4,8 @@ description: Lecture presentation surveying hyperspectral imaging techniques.
 file: /courses/mas-531-computational-camera-and-photography-fall-2009/42009c031a6d382a6df1e08af6241268_MITMAS_531F09_lec08_3.pdf
 file_size: 423514
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

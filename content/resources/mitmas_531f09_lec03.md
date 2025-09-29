@@ -4,6 +4,8 @@ description: Lecture presentation on epsilon photography and film-like optics.
 file: /courses/mas-531-computational-camera-and-photography-fall-2009/bc24ae73b93d9f615f5923b1011cfe77_MITMAS_531F09_lec03.pdf
 file_size: 2528052
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

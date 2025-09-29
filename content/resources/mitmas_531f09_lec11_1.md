@@ -4,6 +4,8 @@ description: Lecture presentation on coded imaging, blurring, and the deblurring
 file: /courses/mas-531-computational-camera-and-photography-fall-2009/9b592453dcc851be79cee815b30cf508_MITMAS_531F09_lec11_1.pdf
 file_size: 2573733
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

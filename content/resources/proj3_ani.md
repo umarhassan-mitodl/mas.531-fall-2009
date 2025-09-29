@@ -5,6 +5,8 @@ description: Supporting file for a student project on taking sharp images from a
 file: /courses/mas-531-computational-camera-and-photography-fall-2009/3bbc14645e2b150b2f37c6f8cd4a5a08_proj3_ani.gif
 file_size: 1213370
 file_type: image/gif
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

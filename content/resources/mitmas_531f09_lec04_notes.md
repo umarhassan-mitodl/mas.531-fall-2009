@@ -5,6 +5,8 @@ description: Lecture notes on computational illumination, dual photography, and 
 file: /courses/mas-531-computational-camera-and-photography-fall-2009/3d72c5a3357df158daeb8488e7bffd86_MITMAS_531F09_lec04_notes.pdf
 file_size: 347139
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

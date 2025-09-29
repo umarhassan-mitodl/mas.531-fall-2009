@@ -10,16 +10,16 @@ uid: 41d0b379-f7c4-4738-d6ab-994fa02224ed
 ---
 This page describes the four homework assignments for the class. The final project with some example student work is presented on the {{% resource_link "2fcf5de0-b2b1-19ca-33d1-c6ff7c739036" "projects" %}} page.
 
-- {{% resource_link "afa8c452-e035-4ff3-80f4-b547c4324828" "Homework 1: Relighting" %}}
-- {{% resource_link "6486ea26-f2dc-4356-86e8-eef4954c7753" "Homework 2: Optics" %}}
-- {{% resource_link "14dfa88d-2341-4b59-b30d-0ef0611db571" "Homework 3: Human Computer Interaction (HCI) using Multi-Flash Camera" %}}
-- {{% resource_link "f5172a32-56ca-4c66-afc5-27bca4bb81bf" "Homework 4: Multispectral Imaging" %}}
+- [Homework 1: Relighting](https://ocw-studio.odl.mit.edu/sites/mas-531-computational-camera-and-photography-fall-2009/type/page/edit/41d0b379-f7c4-4738-d6ab-994fa02224ed/#HW1)
+- [Homework 2: Optics](https://ocw-studio.odl.mit.edu/sites/mas-531-computational-camera-and-photography-fall-2009/type/page/edit/41d0b379-f7c4-4738-d6ab-994fa02224ed/#HW2)
+- [Homework 3: Human Computer Interaction (HCI) using Multi-Flash Camera](https://ocw-studio.odl.mit.edu/sites/mas-531-computational-camera-and-photography-fall-2009/type/page/edit/41d0b379-f7c4-4738-d6ab-994fa02224ed/#HW3)
+- [Homework 4: Multispectral Imaging](https://ocw-studio.odl.mit.edu/sites/mas-531-computational-camera-and-photography-fall-2009/type/page/edit/41d0b379-f7c4-4738-d6ab-994fa02224ed/#HW4)
 
 Graduate students (enrolled in MAS.531) will complete four homework assignments, while undergraduates (enrolled in MAS.131) will complete the first three of these assignments.
 
 Students are encouraged to program in MATLAB® for image analysis. C++, OpenGL and visual programming may be needed for some hardware assignments.
 
-The {{% resource_link "1ae93c51-6e36-4a8e-9edf-acd8ce4b30f5" "MAS.131/MAS.531 Flickr group pool" %}} contains some images produced by students for the assignments and final project.
+The [MAS.131/MAS.531 Flickr group pool](http://www.flickr.com/groups/1233829@N23/) contains some images produced by students for the assignments and final project.
 
 ## {{< anchor "HW1" >}}{{< /anchor >}}Homework 1: Relighting
 
@@ -27,19 +27,19 @@ Combine two photos by mixing the color channels. Take multiple photos by changin
 
 You can use these for inspiration:
 
-- Haeberli, Paul. {{% resource_link "366d4365-1cab-4848-87d5-5e5835ff6830" "*Synthetic Lighting for Photography*" %}}. January, 1992.
-- Raskar, Ramesh, Adrian Ilie, and Jingyi Yu. {{% resource_link "b1bf55cd-6b1b-49df-97d1-5a3d3a4e4a15" "*Image Fusion for Context Enhancement and Video Surrealism*" %}}. Presented at NPAR 2004.
+- Haeberli, Paul. [*Synthetic Lighting for Photography*](http://www.graficaobscura.com/synth/index.html). January, 1992.
+- Raskar, Ramesh, Adrian Ilie, and Jingyi Yu. [*Image Fusion for Context Enhancement and Video Surrealism*](http://web.media.mit.edu/~raskar/NPAR04/). Presented at NPAR 2004.
 
 MATLAB resources:
 
-- Sigmon, Kermit. {{% resource_link "e83163bd-dd14-4f56-9e58-5e5065fc05a6" "*MATLAB Primer*" %}}. 2nd ed., 1992.
-- The MathWorks. {{% resource_link "edaa19d2-922e-4802-914f-38fa40740f4e" "*Image Processing Toolbox*" %}}.
+- Sigmon, Kermit. [*MATLAB Primer*](http://www.math.ucsd.edu/~bdriver/21d-s99/matlab-primer.html). 2nd ed., 1992.
+- The MathWorks. [*Image Processing Toolbox*](http://www.mathworks.com/products/image/).
 
 Create a Web page for all your homework assignments. The Web page for each assignment should at least have well commented source code, all input images, intermediate results and final output. Please include some description below each image.
 
 Here is good example of how to assemble your homework into a Web page:
 
-- "{{% resource_link "b4941b8c-df52-4349-8092-be5a609ea808" "The Vertigo Shot" %}}" from a Carnegie Mellon Computational Photography class (Fall 2008).
+- "[The Vertigo Shot](http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15463-f08/www/proj0/www/fpalermo/)" from a Carnegie Mellon Computational Photography class (Fall 2008).
 
 On your Webpage, you should have sourcecode and other details. Please include intermediate results, if any.
 
@@ -57,11 +57,11 @@ Select one of these three sub-assignments, based on your background and interest
 
 We will study how rays can be propagated thru free space and optical elements. The basic idea is simple. Each ray is four dimensional: it has a position (x,y) + angle (theta, phi). For each element (free space, lens, mirror etc), there is a simple formula to 'transfer' the ray into a new ray:
 
-- Wikipedia: {{% resource_link "592b3427-1033-492e-91cf-83d60a17bf6b" "Ray transfer matrix analysis" %}}.
+- Wikipedia: [Ray transfer matrix analysis](http://en.wikipedia.org/wiki/Ray_transfer_matrix_analysis).
 
 Part 1
 
-Use ray-matrix operations and the 'ray' class to create an interface similar to Andrew Adam's {{% resource_link "1f17e92f-d54e-407a-9b28-44e67d11b16b" "LensToy software" %}}. (Opens a Shockwave file, requires Adobe Flash Player)
+Use ray-matrix operations and the 'ray' class to create an interface similar to Andrew Adam's [LensToy software](http://graphics.stanford.edu/~abadams/lenstoy.swf). (Opens a Shockwave file, requires Adobe Flash Player)
 
 You can directly start with his software or write your own in OpenGL or MATLAB.
 
@@ -77,7 +77,7 @@ Create images of 3D and 2D objects. To compute intensity at a point, you have to
 
 Please read the Lightfield Camera papers very carefully.
 
-- Bennett, W., et al. "{{% resource_link "a4f9c653-842e-43b7-863e-dd858b42e490" "High Performance Imaging Using Large Camera Arrays" %}}." 2005.
+- Bennett, W., et al. "[High Performance Imaging Using Large Camera Arrays](http://graphics.stanford.edu/papers/CameraArray/)." 2005.
 
 Digital refocusing using photos taken by an array of cameras is easy. If you compute an average of all the photos, the digital focus is at infinity. If you shift each photo cumulatively, e.g. shift each photo a pixel with respect to its immediate left neighbor, and then compute an average, the focus plane is closer. This simple shift+add strategy is sufficient to achieve reasonable refocusing effects.
 
@@ -91,16 +91,16 @@ Translate camera and take photos at fixed distance intervals. Place the camera o
 
 Part 3
 
-Show refocusing and see-thru effects. See examples at the {{% resource_link "c8519aee-be70-4d83-943b-18b924495f2c" "Stanford Light Field Archive" %}}.
+Show refocusing and see-thru effects. See examples at the [Stanford Light Field Archive](http://lightfield.stanford.edu/index.html).
 
 Submit all input images, source code and output for each item. Use high depth complexity, colorful, point specular (sphere) objects. To create multiple camera views, you can also aim at an array of mirrors, put the camera on a robot or x-y platform. Be creative with camera configurations, maybe with very large baseline or with a microscope. You can also use unstructured positions and use a calibration target (or structure from motion or Photosynth software) to find the positions.
 
-More projects are described at the Stanford Computer Graphics Laboratory's "{{% resource_link "f6348b0b-357b-4470-8a51-8b339f0b6578" "Light fields and computational photography" %}}" page.
+More projects are described at the Stanford Computer Graphics Laboratory's "[Light fields and computational photography](http://graphics.stanford.edu/projects/lightfield/)" page.
 
 Other ways to create lightfields include:
 
-- Flatbed scanner + lenticulars — See Yang, Jason C. "A Light Field Camera For Image Based Rendering." Master's Thesis, MIT, 2000. ({{% resource_link "071934f2-b25d-4b54-b497-30e375984c0e" "PDF - 1.7MB" %}})
-- Masks — See Veeraraghavan, A., et al. "{{% resource_link "cf03c235-6642-46f6-a81c-5cf3a0474f80" "Dappled Photography: Mask Enhanced Cameras for Heterodyned Light Fields and Coded Aperture Refocusing" %}}." ACM SIGGRAPH 2007.
+- Flatbed scanner + lenticulars — See Yang, Jason C. "A Light Field Camera For Image Based Rendering." Master's Thesis, MIT, 2000. ([PDF - 1.7MB](http://groups.csail.mit.edu/graphics/pubs/thesis_jcyang.pdf))
+- Masks — See Veeraraghavan, A., et al. "[Dappled Photography: Mask Enhanced Cameras for Heterodyned Light Fields and Coded Aperture Refocusing](http://web.media.mit.edu/~raskar/Mask/)." ACM SIGGRAPH 2007.
 
 ### Assignment 2C: Lightfield Photography (same as 2B) but with Input Photos Rendered in Software
 
@@ -126,8 +126,8 @@ Compute images with variable depth of field (Use fewer photos picked from near t
 
 Compute images with slanted plane of focus.
 
-- Wikipedia {{% resource_link "cf9b7dd0-12fc-4673-aa20-ba15d162b547" "Scheimpflug principle" %}}.
-- Vaish, Vaibhav, et al. "{{% resource_link "d207a3b5-a6bc-40c6-9d36-bf33f7b45e50" "Synthetic Aperture Focusing using a Shear-Warp Factorization of the Viewing Transform" %}}." A3DISS (at CVPR), 2005.
+- Wikipedia [Scheimpflug principle](http://en.wikipedia.org/wiki/Scheimpflug_principle).
+- Vaish, Vaibhav, et al. "[Synthetic Aperture Focusing using a Shear-Warp Factorization of the Viewing Transform](http://graphics.stanford.edu/papers/shear-warp/)." A3DISS (at CVPR), 2005.
 
 Create new bokeh (point spread function).
 
@@ -135,14 +135,14 @@ Create new bokeh (point spread function).
 
 Track hand or finger using shadows from colored RGB lights, video camera.
 
-Most of source code is available online; you will have to modify for your task. ({{% resource_link "b8038a60-12b2-4422-a1d0-749588097dce" "GZ" %}})
+Most of source code is available online; you will have to modify for your task. ([GZ](https://web.media.mit.edu/~raskar/NprCamera/Slides/MoreCode/NPRCameraSrc.tar.gz))
 
 References
 
-- {{% resource_link "d5a2d9a9-c23f-47ac-b3b0-11f41d3d01f9" "Kar-Han Tan’s Web site" %}}
-- Raskar, R., K-H Tan, R. Feris, J. Yu, and M. Turk. "{{% resource_link "5fc448ba-51eb-46b1-a303-7d2bafdb82c8" "Non-photorealistic Camera: Depth Edge Detection and Stylized Rendering using Multi-Flash Imaging" %}}." *Proceedings of ACM SIGGRAPH*, August 2004. \[Includes source code\]
-- {{% resource_link "8d3b70a3-3b73-4dff-b592-bbaee754e8d1" "Rogiero Feris' Web site" %}}
-- Vaquero, D., R. Feris, M. Turk, and R. Raskar. "{{% resource_link "f1dd2a18-7770-4456-8566-ef0168273161" "Multiflash Imaging and Applications" %}}.”
+- [Kar-Han Tan’s Web site](http://karhantan.com/)
+- Raskar, R., K-H Tan, R. Feris, J. Yu, and M. Turk. "[Non-photorealistic Camera: Depth Edge Detection and Stylized Rendering using Multi-Flash Imaging](http://web.media.mit.edu/~raskar/NprCamera/)." *Proceedings of ACM SIGGRAPH*, August 2004. \[Includes source code\]
+- [Rogiero Feris' Web site](http://rogerioferis.com/)
+- Vaquero, D., R. Feris, M. Turk, and R. Raskar. "[Multiflash Imaging and Applications](https://web.archive.org/web/20150322033216/http://ilab.cs.ucsb.edu/index.php/component/content/article/12/58).”
 
 Part 1:
 
@@ -183,11 +183,11 @@ Step 1
 Recover multiple wavelength bands of a scene (using online database)
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "80825244-bf67-4387-85d7-50c77f5c201f" "CAVE Multispectral Image Database" %}} with 31 bands
+[CAVE Multispectral Image Database](http://www1.cs.columbia.edu/CAVE/databases/multispectral/) with 31 bands
 
 You should try on at least 2 datasets among the 5 sections of this set:
 
-1. Lemon slices (and color chart) from the section "{{% resource_link "c4b2374a-0ebc-4bd1-b3ed-2d8d2a595c14" "Real and Fake" %}}"
+1. Lemon slices (and color chart) from the section "[Real and Fake](http://www1.cs.columbia.edu/CAVE/databases/multispectral/real_and_fake/)"
 2. One other set of your choice
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -195,16 +195,16 @@ Step 2
 {{< tdclose >}}{{< tdopen >}}
 Get the wavelength profile of at least two light sources (e.g. mercury vapor and sunlight), using curves available online or computing the curve yourself using a spectroscope)
 {{< tdclose >}}{{< tdopen >}}
-Instructions to build your own spectroscope: Turricchia, A., and A. Majcher. “Amateur spectroscope.” ({{% resource_link "70f3ee5d-6f54-41ce-9453-2b81c853d45c" "PDF" %}})
+Instructions to build your own spectroscope: Turricchia, A., and A. Majcher. “Amateur spectroscope.” ([PDF](https://www.if.ufrgs.br/~fatima/fis2004/arquivos/spectroscope.pdf))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Step 3
 {{< tdclose >}}{{< tdopen >}}
 Multiply each band of scene with corresponding intensity of light source in that band
 {{< tdclose >}}{{< tdopen >}}
 
-Graph of human eye spectral sensitivity, to estimate "red," "green," and "blue" target values ({{% resource_link "0509bae1-d98b-4e4c-b9ca-22fe9be655b6" "JPG" %}})
+Graph of human eye spectral sensitivity, to estimate "red," "green," and "blue" target values ([JPG](http://www.normankoren.com/Human_spectral_sensitivity_small.jpg))
 
-More about eye response: Koren, N. "{{% resource_link "367401c6-4306-49b2-ac26-45b2953a962c" "Color management and color science: Introduction" %}}"
+More about eye response: Koren, N. "[Color management and color science: Introduction](http://www.normankoren.com/color_management.html)"
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Step 4
@@ -223,5 +223,5 @@ Extra credit
 {{< tdclose >}}{{< tdopen >}}
 Create a Metamer (objects with two different wavelength profile that look the same in RGB under a light source with specific wavelength profile)
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "7f997764-df33-42be-aee2-9cf2eb17d885" "Metamer applet" %}}
+[Metamer applet](http://www.cs.brown.edu/exploratories/freeSoftware/repository/edu/brown/cs/exploratories/applets/spectrum/metamers_java_browser.html)
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

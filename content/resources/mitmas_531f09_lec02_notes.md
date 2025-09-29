@@ -6,6 +6,8 @@ description: "Lecture notes on image sensor markets, context enhanced imaging, e
 file: /courses/mas-531-computational-camera-and-photography-fall-2009/edf7161e8f0a06669eba9a44d4435815_MITMAS_531F09_lec02_notes.pdf
 file_size: 160858
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -8,6 +8,8 @@ description: Lecture presentation on eye function, rhodopsin, parietal eyes, eye
 file: /courses/mas-531-computational-camera-and-photography-fall-2009/784fbe9e6945839f5a94d2218cc3ffdf_MITMAS_531F09_lec10_notes.pdf
 file_size: 127287
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

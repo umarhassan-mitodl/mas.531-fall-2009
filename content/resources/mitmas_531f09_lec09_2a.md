@@ -6,6 +6,8 @@ description: Lecture presentation on the history of the camera, the invention of
 file: /courses/mas-531-computational-camera-and-photography-fall-2009/2ffc05d38cb05cb1bca92ab86cd58d06_MITMAS_531F09_lec09_2a.pdf
 file_size: 1596793
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

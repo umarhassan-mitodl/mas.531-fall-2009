@@ -5,6 +5,8 @@ description: Lecture notes on film-like optics in conventional photography and e
 file: /courses/mas-531-computational-camera-and-photography-fall-2009/5c335837f664fc1067d3880ddedbd3c5_MITMAS_531F09_lec03_notes.pdf
 file_size: 845272
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

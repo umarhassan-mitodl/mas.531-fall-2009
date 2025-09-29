@@ -7,6 +7,8 @@ description: Digital refocusing is a computational photography technique that al
 file: /courses/mas-531-computational-camera-and-photography-fall-2009/5e157fbb999e9f41b884ed3d583dd8a5_mas-531f09-th.jpg
 file_size: 7049
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Digital refocusing is a computational photography technique that allows
     one to change the focus point in an image after capture, using additional data

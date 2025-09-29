@@ -5,6 +5,8 @@ description: Lecture presentation on medical and scientific applications of comp
 file: /courses/mas-531-computational-camera-and-photography-fall-2009/b0c7f88b8fada31f9e9a5ffdfb00f261_MITMAS_531F09_lec09_1.pdf
 file_size: 1838750
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

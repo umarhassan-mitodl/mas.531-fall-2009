@@ -5,6 +5,8 @@ description: Lecture presentation on light fields, cameras for human-computer in
 file: /courses/mas-531-computational-camera-and-photography-fall-2009/b44ed19567b280f075960c5978f3bd2f_MITMAS_531F09_lec06_notes.pdf
 file_size: 1486950
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
