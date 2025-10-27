@@ -8,39 +8,39 @@ ocw_type: CourseSection
 title: Related Resources
 uid: a2d550b5-7726-a799-2dd2-1f2dc9973361
 ---
-[Camera Culture Group at the MIT Media Lab](http://cameraculture.media.mit.edu/): for latest news, publications, and related materials.
+{{% resource_link "dad63d3c-a46d-4a80-893c-44a184fc45bf" "Camera Culture Group at the MIT Media Lab" %}}: for latest news, publications, and related materials.
 
 ## Computational Photography Links
 
-Raskar, R. "[Computational Photography: Epsilon to Coded Imaging](http://videolectures.net/etvc08_raskar_cpetci/)." Video of presentation at Emerging Trends in Visual Computing (ETVC '08), Paris, France.
+Raskar, R. "{{% resource_link "3dce48f7-160a-4ded-8f0b-9fa35d5254d1" "Computational Photography: Epsilon to Coded Imaging" %}}." Video of presentation at Emerging Trends in Visual Computing (ETVC '08), Paris, France.
 
-Greene, K. "[Photo Future](https://www.technologyreview.com/2009/04/21/266947/photo-future/)." *Technology Review* (May/June 2009).
+Greene, K. "{{% resource_link "dd646aa5-eed0-4981-8688-863f55b7c54c" "Photo Future" %}}." *Technology Review* (May/June 2009).
 
-Hayes, B. "[Computational Photography](http://www.americanscientist.org/issues/pub/computational-photography)." *American Scientist* 96, no. 2 (March-April 2008): 94.
+Hayes, B. "{{% resource_link "c49fd79b-6fa2-440c-8f49-63352682c271" "Computational Photography" %}}." *American Scientist* 96, no. 2 (March-April 2008): 94.
 
-Raskar, R., and J. Tumblin. [Notes for SIGGRAPH 2008 course: Computational Photography](http://web.media.mit.edu/~raskar/photo/).
+Raskar, R., and J. Tumblin. {{% resource_link "f6690c07-02b1-4adf-a429-074e5f52700d" "Notes for SIGGRAPH 2008 course: Computational Photography" %}}.
 
-[Advance and supporting material](http://computationalphotography.org/) for the forthcoming book by Raskar and Tumblin. *Computational Photography: Mastering New Techniques for Lenses, Lighting, and Sensors*. Wellesley, MA: A. K. Peters, Ltd., 2010. ISBN: 9781568813134.
+{{% resource_link "ecd2c622-7893-40cd-8395-3c617c65d7a9" "Advance and supporting material" %}} for the forthcoming book by Raskar and Tumblin. *Computational Photography: Mastering New Techniques for Lenses, Lighting, and Sensors*. Wellesley, MA: A. K. Peters, Ltd., 2010. ISBN: 9781568813134.
 
-[Symposium on Computational Photography and Video](http://scpv.csail.mit.edu/), Cambridge, MA, May 2005.
+{{% resource_link "c7a04c9d-bec9-4de0-8d3c-39994fc84723" "Symposium on Computational Photography and Video" %}}, Cambridge, MA, May 2005.
 
-[What is a Computational Camera](http://www1.cs.columbia.edu/CAVE/projects/what_is/)? by Shree Nayar
+{{% resource_link "109cffda-1465-492d-b29b-6668864c1e04" "What is a Computational Camera" %}}? by Shree Nayar
 
-[Computational Cameras Projects](http://www1.cs.columbia.edu/CAVE/projects/what_is/), by Shree Nayar
+{{% resource_link "109cffda-1465-492d-b29b-6668864c1e04" "Computational Cameras Projects" %}}, by Shree Nayar
 
-[Stanford Lightfield Projects](http://graphics.stanford.edu/projects/lightfield/), by Marc Levoy and collaborators
+{{% resource_link "ebb378c8-5018-4f35-a7d6-1dcba7f7f394" "Stanford Lightfield Projects" %}}, by Marc Levoy and collaborators
 
-[Community Photo Collections](http://grail.cs.washington.edu/projects/cpc/) at University of Washington
+{{% resource_link "36808edb-1f01-49c9-b483-4bb3b571b75b" "Community Photo Collections" %}} at University of Washington
 
-CSAIL - MIT work on [Computational Photography and Video](http://people.csail.mit.edu/fredo/photo.html)
+CSAIL - MIT work on {{% resource_link "4b04e05c-eb38-4d16-a075-6f6a32ec6778" "Computational Photography and Video" %}}
 
-Jack Tumblin's '[Current Research Questions](http://www.cs.northwestern.edu/~jet/research.html)' for the field
+Jack Tumblin's '{{% resource_link "d6c06192-7388-46bc-ad96-a11efee3d88d" "Current Research Questions" %}}' for the field
 
 ## Nobel Prizes Related to Imaging
 
-The [2009 Nobel Prize in Physics](http://nobelprize.org/nobel_prizes/physics/laureates/2009/) was a split award, half of it related to imaging: Willard S. Boyle and George E. Smith "for the invention of an imaging semiconductor circuit – the CCD (Charge Coupled Device) sensor."
+The {{% resource_link "d01c0cbf-5983-4d71-8419-0b7186dd0116" "2009 Nobel Prize in Physics" %}} was a split award, half of it related to imaging: Willard S. Boyle and George E. Smith "for the invention of an imaging semiconductor circuit – the CCD (Charge Coupled Device) sensor."
 
-[Imaging Life](https://educationalgames.nobelprize.org/educational/physics/imaginglife/about.html) - a Nobelprize.org web site with timeline, video and articles about imaging-related innovations. 
+{{% resource_link "0f32e25f-f4c0-4271-a123-c3366bed812e" "Imaging Life" %}} - a Nobelprize.org web site with timeline, video and articles about imaging-related innovations. 
 
 ## Additional Useful Resources (From Prof. Fredo Durand)
 
@@ -48,63 +48,63 @@ The following is based on a list compiled by Prof. Fredo Durand for his class 6.
 
 ### Related Courses at MIT
 
-Photo classes offered by the [MIT Student Art Association](http://saa.mit.edu/)
+Photo classes offered by the {{% resource_link "61498d69-94c6-48c0-8a64-153db942fe43" "MIT Student Art Association" %}}
 
-[The Edgerton Center](http://web.mit.edu/Edgerton/)
+{{% resource_link "35ba23fc-007d-43fa-ac27-e7163c43a678" "The Edgerton Center" %}}
 
-[11.309J / 4.215J Sensing Place: Photography as Inquiry](https://ocw-studio.odl.mit.edu/courses/11-309j-sensing-place-photography-as-inquiry-fall-2012)
+[11.309J / 4.215J Sensing Place: Photography as Inquiry](/courses/11-309j-sensing-place-photography-as-inquiry-fall-2012)
 
-[4.341 Introduction to Photography and Related Media](https://ocw-studio.odl.mit.edu/courses/4-341-introduction-to-photography-and-related-media-fall-2007)
+[4.341 Introduction to Photography and Related Media](/courses/4-341-introduction-to-photography-and-related-media-fall-2007)
 
-[6.163 Strobe Project Laboratory](https://ocw-studio.odl.mit.edu/courses/6-163-strobe-project-laboratory-fall-2005)
+[6.163 Strobe Project Laboratory](/courses/6-163-strobe-project-laboratory-fall-2005)
 
-[21A.348 Photography and Truth](https://ocw-studio.odl.mit.edu/courses/21a-348-photography-and-truth-spring-2008)
+[21A.348 Photography and Truth](/courses/21a-348-photography-and-truth-spring-2008)
 
 21W.749 Documentary Photography and Photo Journalism: Still Images of A World In Motion
 
-[MAS.450 Holographic Imaging](https://ocw-studio.odl.mit.edu/courses/mas-450-holographic-imaging-spring-2003)
+[MAS.450 Holographic Imaging](/courses/mas-450-holographic-imaging-spring-2003)
 
-[SP.747 Creative Imaging](http://web.mit.edu/sp.747/www/)
+{{% resource_link "2c9ab4b4-4089-450d-9ebf-85d9b3489ae3" "SP.747 Creative Imaging" %}}
 
-[SP.757 Digital and Darkroom Imaging](http://web.mit.edu/sp.757/www/index.html)
+{{% resource_link "0c5afc9e-5dae-46ed-91dd-73828fb6eb0b" "SP.757 Digital and Darkroom Imaging" %}}
 
 ### Around Boston
 
-[Museum of Fine Art](http://www.mfa.org/)
+{{% resource_link "4b13a524-33c7-484c-96ec-3e8006f7d133" "Museum of Fine Art" %}}
 
 ### Related Courses Outside MIT
 
-[Computational Photography by Alexei (Alyosha) Efros](http://graphics.cs.cmu.edu/courses/15-463/2008_fall/463.html)
+{{% resource_link "c7d11e0b-a98c-4006-a6d6-7dd7385f6521" "Computational Photography by Alexei (Alyosha) Efros" %}}
 
-[Computer Vision by Steve Seitz and Rick Szeliski](http://www.cs.washington.edu/education/courses/cse576/)
+{{% resource_link "773359d6-7c22-4161-9f8a-a2f3bc1d5cb8" "Computer Vision by Steve Seitz and Rick Szeliski" %}}
 
-[Computational Photography by Marc Levoy and Bennett Wilburn](http://graphics.stanford.edu/courses/cs448-04-spring/) (2004)
+{{% resource_link "6bb61e78-15df-4e26-9a07-8f1c091be7a2" "Computational Photography by Marc Levoy and Bennett Wilburn" %}} (2004)
 
-[Computational Photography by Irfan Essa](https://www.youtube.com/watch?v=zFU30zBxbmc) (2005)
+{{% resource_link "3d968a91-7c27-4375-bbf7-8540e1ac2642" "Computational Photography by Irfan Essa" %}} (2005)
 
-[Introduction to Visual Computing by Kyros Kutulakos](http://www.cs.toronto.edu/~kyros/courses/320/) (multiple years)
+{{% resource_link "9be7cbad-e965-4b44-ba04-06705f779f40" "Introduction to Visual Computing by Kyros Kutulakos" %}} (multiple years)
 
-[Topics in Image-Based Modeling and Rendering by David Kriegman](http://www.cs.ucsd.edu/classes/wi03/cse291-j/) (2003)
+{{% resource_link "73ab055b-4289-44db-b37d-d6656eede837" "Topics in Image-Based Modeling and Rendering by David Kriegman" %}} (2003)
 
-[The Art and Science of Photography: Drawing with Light by Brian Barsky](http://inst.eecs.berkeley.edu/~cs39j/archives.html) (multiple years)
+{{% resource_link "59f35893-7e83-4873-9684-af4f238ecb93" "The Art and Science of Photography: Drawing with Light by Brian Barsky" %}} (multiple years)
 
-[Andrew Davidhazy, Rochester Institute of Technology](http://people.rit.edu/andpph/)
+{{% resource_link "c4dd09e2-979a-409d-9f87-939c20bfedbd" "Andrew Davidhazy, Rochester Institute of Technology" %}}
 
-[Color Vision Imaging Science and Technology by Dr. Hagit Hel-Or](http://cs.haifa.ac.il/hagit/courses/ist/lecture_notes.html)
+{{% resource_link "1b4a7268-dccc-422c-93d4-ed2d05ad7e30" "Color Vision Imaging Science and Technology by Dr. Hagit Hel-Or" %}}
 
 ### Technical Material
 
-[Photoshop Healing Brush and Covariant Derivatives](http://www.tgeorgiev.net/) by Todor Georgiev
+{{% resource_link "438cbdbf-0bf1-4b22-ab6a-12b11508f60e" "Photoshop Healing Brush and Covariant Derivatives" %}} by Todor Georgiev
 
-Szeliski, Rick. "Image Alignment and Stitching: A Tutorial." 2004 ([PDF](http://graphics.cs.cmu.edu/courses/15-463/2004_fall/www/Papers/MSR-TR-2004-92-Sep27.pdf))
+Szeliski, Rick. "Image Alignment and Stitching: A Tutorial." 2004 ({{% resource_link "da859c75-c565-4440-a23a-374c00340ad3" "PDF" %}})
 
-[Autostitch](http://matthewalunbrown.com/autostitch/autostitch.html) (University of British Columbia)
+{{% resource_link "0f781746-ed58-4623-b5ff-7d567b25760e" "Autostitch" %}} (University of British Columbia)
 
-Ramanath, R., W. E. Snyder, Y. Yoo, and M. S. Drew. "Color Image Processing Pipeline in Digital Still Cameras." 2005 ([PDF - 7.8MB](https://www2.cs.sfu.ca/~mark/ftp/SignalProcessing05/Color_image_processing_pipeline05.pdf))
+Ramanath, R., W. E. Snyder, Y. Yoo, and M. S. Drew. "Color Image Processing Pipeline in Digital Still Cameras." 2005 ({{% resource_link "63d014cd-c3c3-43e9-bde5-7607eeb0c267" "PDF - 7.8MB" %}})
 
-Farrel, J. E., F. Xiao, P. B. Catrysse, and B. A. Wandell. "A Simulation Tool for Evaluating Digital Camera Image Quality." 2004 ([PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5294/1/A-simulation-tool-for-evaluating-digital-camera-image-quality/10.1117/12.537474.short))
+Farrel, J. E., F. Xiao, P. B. Catrysse, and B. A. Wandell. "A Simulation Tool for Evaluating Digital Camera Image Quality." 2004 ({{% resource_link "e906cbf0-f393-4fc8-87de-dd4ab40dd644" "PDF" %}})
 
-Withagen, P. J., F. C. A. Groen, and K. Schutte. ["CCD Characterization for a Range of Color Cameras."](https://ieeexplore.ieee.org/document/1604573) 2005
+Withagen, P. J., F. C. A. Groen, and K. Schutte. {{% resource_link "f18ee3ac-2fdc-4c40-9c74-77f5a8f0a8cf" "\"CCD Characterization for a Range of Color Cameras.\"" %}} 2005
 
 Pixim "Digital Pixel System Technology." Whitepaper
 
@@ -112,72 +112,72 @@ Young, I. T., J. J. Gerbrands, and L. J. van Vliet. "[Noise](ftp://qiftp.tudelft
 
 ### Photography Web sites
 
-[Fluideffects](http://www.fluideffect.com/) (impressive before/after retouching)
+{{% resource_link "62723bf6-10a5-43b4-8196-0b9604810ee8" "Fluideffects" %}} (impressive before/after retouching)
 
-[Digital Photography Review](http://www.dpreview.com/) (best resource for camera reviews)
+{{% resource_link "e557b4ba-3d16-49ab-b484-4f35d44f7fd9" "Digital Photography Review" %}} (best resource for camera reviews)
 
-[The Luminous Landscape](http://luminous-landscape.com/) (really insightful, Reichman is a pro and has lots of interesting things to say)
+{{% resource_link "1bb318ad-3d47-4339-a86b-a209d8ca5aea" "The Luminous Landscape" %}} (really insightful, Reichman is a pro and has lots of interesting things to say)
 
-[Digital Outback Photo](http://www.outbackphoto.com/about/about.html)
+{{% resource_link "39d6726b-901e-4315-a9a6-c198afa59df8" "Digital Outback Photo" %}}
 
-[Rob Galbraith Digital Photography Insights](https://web.archive.org/web/20111127103433/http://www.robgalbraith.com/bins/index.asp)
+{{% resource_link "b9cab4d3-5f96-482b-bc90-69e87a1d5442" "Rob Galbraith Digital Photography Insights" %}}
 
-[Photo.net](http://photo.net/)
+{{% resource_link "34ff76a5-5620-4e08-8feb-3898419bf822" "Photo.net" %}}
 
-[Digital Photograhy Tutorials](http://www.cambridgeincolour.com/tutorials.htm) and [Techniques](http://www.cambridgeincolour.com/techniques.htm) by Sean McHugh (really good, fairly technical)
+{{% resource_link "eb698b1c-7a35-4285-a4f6-af843497c390" "Digital Photograhy Tutorials" %}} and {{% resource_link "b5127e09-4f21-467f-b6b7-a1089848719b" "Techniques" %}} by Sean McHugh (really good, fairly technical)
 
-[How Digital Cameras Work](http://www.bythom.com/) by Thom Hogan
+{{% resource_link "75ae257d-1347-4d91-a544-0430b6705910" "How Digital Cameras Work" %}} by Thom Hogan
 
-[Digital Photography For What It's Worth](https://www.dpreview.com/forums/post/12868038)
+{{% resource_link "6d190cb3-d0e8-47f3-90d2-bda6a33e22f2" "Digital Photography For What It's Worth" %}}
 
-[Digital Photography Miscellaneous Info](http://www.ayton.id.au/gary/photo/Dig_misc1.htm)
+{{% resource_link "64e3d71e-3921-4005-a49d-d4fe6af601b1" "Digital Photography Miscellaneous Info" %}}
 
-Digital Photography Fundamentals by Apple ([PDF - 2.3MB](http://manuals.info.apple.com/MANUALS/0/MA123/en_US/Aperture_Photography_Fundamentals.pdf))
+Digital Photography Fundamentals by Apple ({{% resource_link "87033ebe-6dea-4835-bcb5-4a8063549556" "PDF - 2.3MB" %}})
 
-[Nikon F5 Series SLR models - Various Metering Systems](http://www.mir.com.my/rb/photography/hardwares/classics/NikonF5/metering/)
+{{% resource_link "107ff5c0-0f41-436e-89e4-7c5b82082f71" "Nikon F5 Series SLR models - Various Metering Systems" %}}
 
-[Canon Camera Museum](http://global.canon/en/c-museum/)
+{{% resource_link "8840633a-5120-428d-82d1-d688c34dbcb0" "Canon Camera Museum" %}}
 
-[Wikipedia Autofocus](http://en.wikipedia.org/wiki/Autofocus)
+{{% resource_link "b4adfacc-693f-4c8c-ab75-de10099c8e94" "Wikipedia Autofocus" %}}
 
-[Nikon Article on Autofocus](http://www.nikon.com/about/technology/index.htm)
+{{% resource_link "50c612e0-fda4-4f9b-a6f2-d3d9becb4677" "Nikon Article on Autofocus" %}}
 
-[PhotoNotes.org](http://photonotes.org.cutestat.com/)
+{{% resource_link "ae0c0bce-9c80-4edb-a214-774ba44372d4" "PhotoNotes.org" %}}
 
 ### Do It Yourself
 
-[Dirkon, The Paper Camera](http://www.pinhole.cz/en/pinholecameras/dirkon_01.html)
+{{% resource_link "8ac42182-e03e-4b95-88d9-8aa24532ee03" "Dirkon, The Paper Camera" %}}
 
-[Lego Camera](https://www.brothers-brick.com/tag/camera/)
+{{% resource_link "a4c9b3eb-4f89-41be-9630-1b0a8b371196" "Lego Camera" %}}
 
-[High-Speed Visual Imaging](http://www.hiviz.com/)
+{{% resource_link "fcc8c106-cbd6-4f60-822c-33748fb5c334" "High-Speed Visual Imaging" %}}
 
-[Extreme Macro Photography on a Budget](http://extreme-macro.co.uk/)
+{{% resource_link "193beb0d-7e73-45d4-9453-0567c8af46d2" "Extreme Macro Photography on a Budget" %}}
 
-[Photocritic.org](http://photocritic.org/)
+{{% resource_link "c02e81a2-3f86-4b71-9d67-36430fc24ef5" "Photocritic.org" %}}
 
-[The Cookbook Camera Home Page](http://www.wvi.com/~rberry/cookbook/cookbook.htm)
+{{% resource_link "16293f6a-a437-4db1-9174-4914d547d47c" "The Cookbook Camera Home Page" %}}
 
 DIY Cameras
 
 ### Visual Perception
 
-[Eye Design Book](http://www.eyedesignbook.com/ch1/contentsch1.html) (includes animal visual systems)
+{{% resource_link "fe083957-7624-419c-9ca7-a7c7bdc1d0a1" "Eye Design Book" %}} (includes animal visual systems)
 
 ### Retouching
 
-[Fluid Effect](http://www.fluideffect.com/)
+{{% resource_link "62723bf6-10a5-43b4-8196-0b9604810ee8" "Fluid Effect" %}}
 
-[Girlpower - Retouch](http://v3ktor.se/girlpower_reveal_the_retouch.php)
+{{% resource_link "3edb6ad6-5233-45a4-9989-444b287a09a0" "Girlpower - Retouch" %}}
 
 NPPA Calls Newsweek's Martha Stewart Cover "A Major Ethical Breach." National Press Photographers Association, March 9, 2005.
 
-[Popular Culture: Is Seeing Believing?](https://www.frankwbaker.com/mlc/is-seeing-believing/)
+{{% resource_link "db2e08e3-339d-4732-8c6d-55ca607dc4ff" "Popular Culture: Is Seeing Believing?" %}}
 
-[Glenn C. Feron: The Art of Retouching](http://glennferon.com/index.html)
+{{% resource_link "fe8aa6bc-2f8c-401d-a99b-88d859a7b769" "Glenn C. Feron: The Art of Retouching" %}}
 
-[Touch of Glamour](http://www.touchofglamour.com/)
+{{% resource_link "3e37058e-f07b-4213-b0a3-e400246e3755" "Touch of Glamour" %}}
 
-[Portrait Professional](http://www.portraitprofessional.com/)
+{{% resource_link "1305e31f-f130-44a2-ac73-2a0fb744d496" "Portrait Professional" %}}
 
-Wayner, Peter. "[Looking Perfect, One Pixel at a Time](http://www.nytimes.com/2007/04/26/technology/26retouch.html)." *The New York Times*, April 26, 2007.
+Wayner, Peter. "{{% resource_link "5dd3b920-345d-40b4-ba5c-b65919c6f7e8" "Looking Perfect, One Pixel at a Time" %}}." *The New York Times*, April 26, 2007.
