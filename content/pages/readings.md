@@ -3,8 +3,6 @@ content_type: page
 description: This section provides the reading assignments for the course along with
   links to useful introductory material from the SIGGRAPH Computational Photography
   course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -17,9 +15,9 @@ Background Material
 
 Some useful introductory material from my SIGGRAPH Computational Photography course.
 
-*   [Web site overview](http://web.media.mit.edu/~raskar/photo/)
-*   2008 course: [slides](http://web.media.mit.edu/~raskar/photo/), [video](http://www.slideshare.net/cameraculture/raskar-computational-camera-fall-2009-lecture-01)
-*   2007 course: [slides](http://web.media.mit.edu/~raskar/photo/)
+*   {{% resource_link "f6690c07-02b1-4adf-a429-074e5f52700d" "Web site overview" %}}
+*   2008 course: {{% resource_link "f6690c07-02b1-4adf-a429-074e5f52700d" "slides" %}}, {{% resource_link "d8c89d7c-beae-465d-814d-0e19fb52096b" "video" %}}
+*   2007 course: {{% resource_link "f6690c07-02b1-4adf-a429-074e5f52700d" "slides" %}}
 
 Assigned Readings
 -----------------
@@ -30,19 +28,19 @@ Additional readings associated with the {{% resource_link 41d0b379-f7c4-4738-d6a
 
 The main paper we will use to understand many concepts:
 
-*   Ng, R., M. Levoy, M. Brédif, G. Duval, M. Horowitz, and P. Hanrahan. "[Light Field Photography with a Hand-Held Plenoptic Camera](http://graphics.stanford.edu/papers/lfcamera/)." Stanford University Technical Report CTSR 2005-02.
+*   Ng, R., M. Levoy, M. Brédif, G. Duval, M. Horowitz, and P. Hanrahan. "{{% resource_link "c6f1b23e-1a7c-4034-b9ba-d4aa5a588c9f" "Light Field Photography with a Hand-Held Plenoptic Camera" %}}." Stanford University Technical Report CTSR 2005-02.
 
 Then we will look at additional topics based on modern methods to manipulate and capture lightfield. They include coded aperture and heterodyning.
 
-*   Veeraraghavan, A., R. Raskar, A. Agrawal, A. Mohan, and J. Tumblin. "[Dappled Photography: Mask Enhanced Cameras for Heterodyned Light Fields and Coded Aperture Refocusing](http://web.media.mit.edu/~raskar/Mask/)." Proceedings of ACM SIGGRAPH 2007.
+*   Veeraraghavan, A., R. Raskar, A. Agrawal, A. Mohan, and J. Tumblin. "{{% resource_link "8b150b38-2240-4f03-9ac0-27ff773f06cf" "Dappled Photography: Mask Enhanced Cameras for Heterodyned Light Fields and Coded Aperture Refocusing" %}}." Proceedings of ACM SIGGRAPH 2007.
 
-Wikipedia page for older designs: [Plenotpic Camera](http://en.wikipedia.org/wiki/Plenoptic_camera)
+Wikipedia page for older designs: {{% resource_link "b04f4819-101e-43b6-a388-ca8ef1f026c6" "Plenotpic Camera" %}}
 
 ### Coded aperture
 
-"[Textbook" description](http://www.paulcarlisle.net/old/codedaperture.html) by Paul Carlisle.
+"{{% resource_link "a69919dc-c35f-4f1c-b804-6dd238d001b9" "Textbook\" description" %}} by Paul Carlisle.
 
-[Summary of references](http://astrophysics.gsfc.nasa.gov/cai/coded_intr.html) by Jean in 't Zand.
+{{% resource_link "e03f02c8-27b8-4515-9b95-ae9f50d44a99" "Summary of references" %}} by Jean in 't Zand.
 
 Classic paper:
 
@@ -51,9 +49,9 @@ Classic paper:
 Recent work:
 
 *   Hiura, Shinsaku, and Takashi Matsuyama. "Depth Measurement by the Multi-Focus Camera." _IEEE Conference on Computer Vision and Pattern Recognition (CVPR, '98)_, 1998, pp. 953-959.
-*   Veeraraghavan, A., R. Raskar, A. Agrawal, A. Mohan, and J. Tumblin. "[Dappled Photography: Mask Enhanced Cameras for Heterodyned Light Fields and Coded Aperture Refocusing.](http://web.media.mit.edu/~raskar/Mask/)" Proceedings of ACM SIGGRAPH 2007.
-*   Levin, A., R. Fergus, F. Durand, and B. Freeman. "[Image and Depth from a Conventional Camera with a Coded Aperture](http://groups.csail.mit.edu/graphics/CodedAperture/)." Proceedings of ACM SIGGRAPH 2007.
-*   Coded aperture in time: Raskar, R., A. Agrawal, and J. Tumblin. "[Coded Exposure Photography: Motion Deblurring using Fluttered Shutter](http://web.media.mit.edu/~raskar/deblur/)." Proceedings of ACM SIGGRAPH 2006.
+*   Veeraraghavan, A., R. Raskar, A. Agrawal, A. Mohan, and J. Tumblin. "{{% resource_link "8b150b38-2240-4f03-9ac0-27ff773f06cf" "Dappled Photography: Mask Enhanced Cameras for Heterodyned Light Fields and Coded Aperture Refocusing." %}}" Proceedings of ACM SIGGRAPH 2007.
+*   Levin, A., R. Fergus, F. Durand, and B. Freeman. "{{% resource_link "d1c2a913-6c4d-47da-9cbb-415ae0fb586e" "Image and Depth from a Conventional Camera with a Coded Aperture" %}}." Proceedings of ACM SIGGRAPH 2007.
+*   Coded aperture in time: Raskar, R., A. Agrawal, and J. Tumblin. "{{% resource_link "b1b690e3-748e-4781-91ce-e0adafe6deb8" "Coded Exposure Photography: Motion Deblurring using Fluttered Shutter" %}}." Proceedings of ACM SIGGRAPH 2006.
 
 ### Phase-plate based coded aperture
 

@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, goals, format, prerequisites, readings, homework assignments,
   final projects, grading, and the schedule of lecture topics and assignment due dates.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -53,7 +51,7 @@ The course is intended for students with interest in algorithmic and technical a
 
 Familiarity with imaging, camera techniques, applied optics, linear algebra and signal processing will be helpful but not necessary. Given the multi-disciplinary nature of the subject, the class will be open and supportive of students with different software and hardware (electronics/optics) backgrounds. We try to keep the mathematical prerequisites to a minimum, but we will introduce material from broad areas at a fast pace.
 
-SIGGRAPH course videos (2007 and 2008) found on Raskar and Tumblin's [Computational Photography](http://web.media.mit.edu/~raskar//photo/) page may be helpful.
+SIGGRAPH course videos (2007 and 2008) found on Raskar and Tumblin's {{% resource_link "3be67947-1873-402d-a600-f744c15b6531" "Computational Photography" %}} page may be helpful.
 
 ### Related Courses
 

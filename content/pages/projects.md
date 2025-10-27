@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information on the final project of the course
   along with a selection of student project work.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -52,7 +50,7 @@ Paper ({{% resource_link d1a039b7-4c71-82d4-c9f5-012667ca5a8f "PDF" %}})
 Slides ({{% resource_link 6e17a368-48b6-ab0c-6ae4-9a7143510202 "PDF" %}})  
 Animation of concept ({{% resource_link 3bbc1464-5e2b-150b-2f37-c6f8cd4a5a08 "GIF - 1.2MB" %}})  
   
-Supporting video: destinws2. "Chicken Head Tracking — Pennywhistle Productions." 15 June 2008. YouTube. Accessed 1 June 2010. [http://www.youtube.com/watch?v=\_dPlkFPowCc](http://www.youtube.com/watch?v=_dPlkFPowCc)
+Supporting video: destinws2. "Chicken Head Tracking — Pennywhistle Productions." 15 June 2008. YouTube. Accessed 1 June 2010. {{% resource_link "e3c7c9b7-a0e5-46f7-b6ad-fedb167f1e07" "http://www.youtube.com/watch?v=\_dPlkFPowCc" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
